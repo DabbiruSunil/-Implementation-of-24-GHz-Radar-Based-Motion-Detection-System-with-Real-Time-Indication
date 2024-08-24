@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lab3-000\Lab3\source\bsw\fft_application\arm_math.h">
+<ExpandedNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\TopDesign</v>
+<v>Lab3-000\Lab3\Lab3.cydwr</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Pins</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Analog</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Clocks</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Interrupts</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\DMA</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\System</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Directives</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Flash Security</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\EEPROM</v>
+<v>Lab3-000\Lab3\source</v>
+<v>Lab3-000\Lab3\source\asw</v>
+<v>Lab3-000\Lab3\source\asw\cyapicallbacks.h</v>
+<v>Lab3-000\Lab3\source\asw\main.c</v>
+<v>Lab3-000\Lab3\source\bsw</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\arm_common_tables.h</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\arm_const_structs.h</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\arm_math.h</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\fft_application.h</v>
+<v>Lab3-000\Lab3\source\bsw\derivate.h</v>
+<v>Lab3-000\Lab3\source\bsw\global.h</v>
+<v>Lab3-000\Lab3\Generated_Source</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\TopDesign</v>
+<v>Lab3-000\Lab3\Lab3.cydwr</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Pins</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Analog</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Clocks</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Interrupts</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\DMA</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\System</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Directives</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\Flash Security</v>
+<v>Lab3-000\Lab3\Lab3.cydwr\EEPROM</v>
+<v>Lab3-000\Lab3\source</v>
+<v>Lab3-000\Lab3\source\asw</v>
+<v>Lab3-000\Lab3\source\asw\cyapicallbacks.h</v>
+<v>Lab3-000\Lab3\source\asw\main.c</v>
+<v>Lab3-000\Lab3\source\bsw</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\arm_common_tables.h</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\arm_const_structs.h</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\arm_math.h</v>
+<v>Lab3-000\Lab3\source\bsw\fft_application\fft_application.h</v>
+<v>Lab3-000\Lab3\source\bsw\derivate.h</v>
+<v>Lab3-000\Lab3\source\bsw\global.h</v>
+<v>Lab3-000\Lab3\Generated_Source</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\ADC_DelSig_1</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\ADC_DelSig_1_AMux</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\ADC_DelSig_1_Ext_CP_Clk</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\ADC_DelSig_1_IRQ</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\ADC_DelSig_1_theACLK</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\ADC_In</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\cy_boot</v>
+<v>Lab3-000\Lab3\Generated_Source\PSoC5\DAC</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_compiler_gcc.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_hal_structs.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_hal_structs.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_irqstub.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_primitives.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_stdint.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_types.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_context.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_context.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_cpu.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_internal.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_irq.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_irq_cng_cont.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_nvic.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_system_timer.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_systick.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_utils.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee.h</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_activate.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alcancel.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alget.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_algetbase.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alsetabs.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alsetrel.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_altick.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_api.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_as_internal.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_as_kernel.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_as_timing_prot.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_chaintas.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_evclear.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_evget.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_evset.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_evwait.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_force_schedule.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_getcountervalue.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_getelapsedvalue.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_gettaskid.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_gettaskstate.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_gnu_change_context_isr.s</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_gnu_irq_stack.s</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_gnu_multi_context.s</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_gnu_oo.s</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_internal.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_iparam.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_irq.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_irqendin.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_lockres.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_lookup.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_oo_api.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_oo_common.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_oo_inline.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_oo_internal.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_oo_intfunc.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_oo_irq.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_oo_kernel.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_os.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_rq_exchg.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_rq_first.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_rq_inser.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_rtdruid_versions.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_schedule.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_semgetvalue.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_sempost.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_semtrywait.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_semwait.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_shtdown.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_startos.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_terminat.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_thendin.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_tnterm.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_tracing.h</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_tstub.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_ulockallres.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_ulockres.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\eecfg.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\eecfg.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\event_definition.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ISR_definition.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\resource_priorities.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\task_priorities.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSAlarmsCounters.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSAlarmsCounters.Designer.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSAlarmsCounters.resx</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSControl.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSControl.Designer.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSControl.resx</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSCustomizer.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSEventsResources.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSEventsResources.Designer.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSEventsResources.resx</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSISRs.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSISRs.Designer.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSISRs.resx</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSParameters.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSTask.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSTask.Designer.cs</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\Custom\ErikaOSTask.resx</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\ErikaOS_v2_5_3.cysym</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\ErikaOS_v2_5_3.pdf</v>
+<v>Lab3-000\Lab3\TopDesign</v>
+<v>Lab3-000\Lab3\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_compiler_gcc.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_hal_structs.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_hal_structs.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_irqstub.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_primitives.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_stdint.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\common_ee_types.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_context.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_context.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_cpu.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_internal.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_irq.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_irq_cng_cont.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_nvic.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_system_timer.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_systick.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\cortex_mx_ee_utils.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee.h</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_activate.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alcancel.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alget.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_algetbase.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alsetabs.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_alsetrel.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_altick.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_api.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_as_internal.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_as_kernel.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_as_timing_prot.inc</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_chaintas.c</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3\API\ee_evclear.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\CortexM3</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_AMux.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_Ext_CP_Clk.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_INT.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_IRQ.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_PM.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_theACLK.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_In.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_ADC2Array_dma.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_common_ee_hal_structs.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_cortex_mx_ee_context.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_cortex_mx_ee_system_timer.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_cortex_mx_ee_utils.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_activate.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_alcancel.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_alget.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_algetbase.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_alsetabs.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_alsetrel.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_altick.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_chaintas.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_evclear.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_evget.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_evset.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_evwait.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_force_schedule.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_getcountervalue.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_getelapsedvalue.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_gettaskid.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_gettaskstate.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_gnu_change_context_isr.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_gnu_irq_stack.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_gnu_multi_context.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_gnu_oo.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_iparam.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_irqendin.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_lockres.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_lookup.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_rq_exchg.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_rq_first.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_rq_inser.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_schedule.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_semgetvalue.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_sempost.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_semtrywait.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_semwait.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_shtdown.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_startos.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_terminat.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_thendin.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_tnterm.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_tstub.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_ulockallres.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_ulockres.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_eecfg.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\Green_LED.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_ADC2Array.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_button.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_rx.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\PushButton.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\Red_LED.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\Test.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_LOG.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_LOG_BOOT.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_LOG_INT.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_LOG_IntClock.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_LOG_PM.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC8_1.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC8_1_DacClk.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC8_1_PM.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC8_1_VDAC8.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC8_1_VDAC8_PM.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC8_1_Wave1_DMA_dma.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC8_1_Wave2_DMA_dma.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\Yellow_LED.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Lab3.elf</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Lab3.hex</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Lab3.map</v>
+<v>Lab3-000\Lab3\Lab3.gpdsc</v>
+<v>Lab3-000\Lab3\Lab3.rpt</v>
+<v>Lab3-000\Lab3\Lab3_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\CortexM3</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_AMux.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_Ext_CP_Clk.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_INT.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_IRQ.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_PM.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_1_theACLK.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_In.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_ADC2Array_dma.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_common_ee_hal_structs.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_cortex_mx_ee_context.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_cortex_mx_ee_system_timer.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_cortex_mx_ee_utils.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_activate.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_alcancel.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_alget.lst</v>
+<v>Lab3-000\Lab3\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_1_ee_algetbase.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\PSoC 5LP Architecture TRM</v>
+<v>Lab3-000\Lab3\CY8C58LP Family Datasheet</v>
+<v>Lab3-000\Lab3\System Reference Guides</v>
+<v>Lab3-000\Lab3\System Reference Guides\cy_boot_v6_10</v>
+<v>Lab3-000\Lab3\ADC_DelSig_v3_30.pdf</v>
+<v>Lab3-000\Lab3\Capacitor_v1_0.pdf</v>
+<v>Lab3-000\Lab3\cy_constant_v1_0.pdf</v>
+<v>Lab3-000\Lab3\cy_dma_v1_70.pdf</v>
+<v>Lab3-000\Lab3\cy_isr_v1_71</v>
+<v>Lab3-000\Lab3\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>Lab3-000\Lab3\cy_pins_v2_20</v>
+<v>Lab3-000\Lab3\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3.pdf</v>
+<v>Lab3-000\Lab3\Gnd_v1_0</v>
+<v>Lab3-000\Lab3\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>Lab3-000\Lab3\LED_v1_0</v>
+<v>Lab3-000\Lab3\LED_v1_0\LED_v1_0.pdf</v>
+<v>Lab3-000\Lab3\Resistor_v1_0</v>
+<v>Lab3-000\Lab3\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Lab3-000\Lab3\SwitchSPST_v1_0.pdf</v>
+<v>Lab3-000\Lab3\UART_v2_50.pdf</v>
+<v>Lab3-000\Lab3\WaveDAC8_v2_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab3-000</v>
+<v>Lab3-000\Lab3</v>
+<v>Lab3-000\Lab3\PSoC 5LP Architecture TRM</v>
+<v>Lab3-000\Lab3\CY8C58LP Family Datasheet</v>
+<v>Lab3-000\Lab3\System Reference Guides</v>
+<v>Lab3-000\Lab3\System Reference Guides\cy_boot_v6_10</v>
+<v>Lab3-000\Lab3\ADC_DelSig_v3_30.pdf</v>
+<v>Lab3-000\Lab3\Capacitor_v1_0.pdf</v>
+<v>Lab3-000\Lab3\cy_constant_v1_0.pdf</v>
+<v>Lab3-000\Lab3\cy_dma_v1_70.pdf</v>
+<v>Lab3-000\Lab3\cy_isr_v1_71</v>
+<v>Lab3-000\Lab3\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>Lab3-000\Lab3\cy_pins_v2_20</v>
+<v>Lab3-000\Lab3\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Lab3-000\Lab3\ErikaOS_v2_5_3.pdf</v>
+<v>Lab3-000\Lab3\Gnd_v1_0</v>
+<v>Lab3-000\Lab3\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>Lab3-000\Lab3\LED_v1_0</v>
+<v>Lab3-000\Lab3\LED_v1_0\LED_v1_0.pdf</v>
+<v>Lab3-000\Lab3\Resistor_v1_0</v>
+<v>Lab3-000\Lab3\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Lab3-000\Lab3\SwitchSPST_v1_0.pdf</v>
+<v>Lab3-000\Lab3\UART_v2_50.pdf</v>
+<v>Lab3-000\Lab3\WaveDAC8_v2_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\source\asw\main.c" />
+<name v=".\source\bsw\fft_application\fft_application.h" />
+<name v=".\source\bsw\fft_application\arm_math.h" />
+<name v=".\Lab3.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 423" SelectedTabbedMdiWindow="121b68ff-c7ca-4bbe-bf7f-5da08b76e1c0"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="65b80527-34a4-4971-b3fc-2a6592416cba" /><DocumentWindow Key="C:\My_Files\summer_semester\SDHD\Final Exam Documents\FinalLab\Lab3.cydsn\TopDesign\TopDesign.cysch" Guid="3e1c0bb5-d054-4378-b34d-f04e7bbb6e98" /><DocumentWindow Key="C:\My_Files\summer_semester\SDHD\Final Exam Documents\FinalLab\Lab3.cydsn\source\asw\main.c" Guid="121b68ff-c7ca-4bbe-bf7f-5da08b76e1c0" /><DocumentWindow Key="C:\My_Files\summer_semester\SDHD\Final Exam Documents\FinalLab\Lab3.cydsn\source\bsw\fft_application\fft_application.h" Guid="b26fd08a-14cd-41cd-92d1-613093fcd9e3" /><DocumentWindow Key="C:\My_Files\summer_semester\SDHD\Final Exam Documents\FinalLab\Lab3.cydsn\source\bsw\fft_application\arm_math.h" Guid="4cfbd0bf-5c84-4bb4-a082-80e416b13e52" /><DocumentWindow Key="C:\My_Files\summer_semester\SDHD\Final Exam Documents\FinalLab\Lab3.cydsn\Lab3.cydwr" Guid="5f218aef-f8e6-4d63-9f1f-3c94e97cfbac" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
