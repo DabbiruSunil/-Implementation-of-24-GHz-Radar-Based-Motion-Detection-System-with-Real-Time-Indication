@@ -1,47 +1,96 @@
-Implementation of 24-GHz Radar-Based Motion Detection System with Real-Time Indication
-This repository contains the project files for the implementation of a 24-GHz Radar-based motion detection system, designed to detect movement with high accuracy using real-time signal processing techniques. The project involves the design, development, and testing of a motion detection system on a custom PCB, utilizing a 24-GHz radar module and advanced signal processing algorithms.
+# 📡 24-GHz Radar-Based Motion Detection System with Real-Time Indication
 
-Project Overview
-The objective of this project is to design a motion detection system that leverages a 24-GHz radar sensor for precise movement detection. The system is capable of processing radar signals in real-time, providing immediate feedback on detected motion. The project includes both hardware and software components:
+This repository contains the design, development, and testing files for a **24-GHz radar-based motion detection system**, capable of detecting movement with high accuracy using real-time signal processing. The project integrates hardware (custom PCB with a 24-GHz radar module) and software (firmware, MATLAB analysis, and signal processing algorithms) into a complete working system.
 
-Hardware Design:
-Custom PCB layout using KiCad for integrating the 24-GHz radar module.
-Integration of essential components including ADC, DAC, and DMA for efficient signal processing.
-Software Development:
-Implementation of a state machine in PSoC Creator for signal processing.
-Use of MATLAB for analyzing radar data and implementing Discrete Fourier Transform (DFT) for signal analysis.
-Development of firmware for the PSoC 5LP microcontroller.
-Repository Contents
-The repository is structured as follows:
+---
 
-24GHz-Radar for movement Detection.pptx: A presentation detailing the system's design, implementation, and performance analysis.
-Gerber files for PCB.zip: The Gerber files necessary for manufacturing the custom PCB designed for this project.
-KiCad files for PCB.zip: KiCad project files used to design the PCB layout for the radar-based motion detection system.
-PSoC_project.zip: The PSoC Creator project files, including source code and configurations for the radar system's firmware.
-Getting Started
-Prerequisites
-To work with the files in this repository, you will need the following tools:
+## 📌 Project Overview
 
-KiCad: For viewing and modifying the PCB design files.
-PSoC Creator: For compiling and uploading the firmware to the PSoC 5LP microcontroller.
-MATLAB: For performing signal processing and data analysis.
-A suitable PCB manufacturer: For producing the PCB from the Gerber files.
-Installation and Usage
-PCB Design:
+The objective of this project is to build a **precise motion detection system** leveraging a **24-GHz radar sensor**. The radar signals are captured, digitized, and processed in real time to provide immediate feedback when motion is detected.
 
-Open the KiCad project files using KiCad.
-Review and modify the PCB design if necessary.
-Use the Gerber files to manufacture the PCB.
-Firmware Development:
+### Hardware
 
-Open the PSoC project in PSoC Creator.
-Compile the project and program the PSoC 5LP microcontroller.
-Signal Processing:
+* Custom PCB designed in **KiCad**.
+* Integration of **24-GHz radar module**, **ADC**, **DAC**, and **DMA** for efficient data handling.
+* Gerber files provided for fabrication.
 
-Use MATLAB scripts provided within the PSoC project to process the radar data.
-Analyze the real-time signal to detect motion accurately.
-Contributing
-Contributions to this project are welcome. Please create a pull request with a detailed description of your changes.
+### Software
 
-Contact
-For any queries or further information, please contact Sunil Dabbiru at dabbiru.sunil@stud.h-da.de.
+* **Firmware** written in **PSoC Creator** for the Cypress PSoC 5LP microcontroller.
+* State machine–based design for efficient real-time processing.
+* **MATLAB scripts** for radar data analysis and Discrete Fourier Transform (DFT)–based signal evaluation.
+
+---
+
+## ✨ Features
+
+* **High-frequency motion detection** at 24 GHz.
+* **Custom PCB** with modular radar integration.
+* **Real-time indication** of detected motion.
+* **Efficient data processing pipeline** using DMA and microcontroller firmware.
+* **MATLAB support** for offline data visualization and spectral analysis.
+
+---
+
+## 📂 Repository Contents
+
+* **`24GHz-Radar for movement Detection.pptx`** – Presentation of design, implementation, and performance.
+* **`Gerber files for PCB.zip`** – Fabrication files for the custom PCB.
+* **`KiCad files for PCB.zip`** – Full KiCad project for PCB layout and schematic.
+* **`PSoC_project.zip`** – Source code, configuration, and firmware project for PSoC Creator.
+
+---
+
+## 🛠️ Getting Started
+
+### 🔧 Prerequisites
+
+* [KiCad](https://www.kicad.org/) – For PCB design files.
+* [PSoC Creator](https://www.cypress.com/products/psoc-creator-integrated-design-environment-ide) – To build and flash firmware onto the PSoC 5LP.
+* [MATLAB](https://www.mathworks.com/products/matlab.html) – For radar data analysis and signal processing.
+* PCB fabrication service – To manufacture the board from the Gerber files.
+
+### ⚙️ Installation & Usage
+
+#### 1. PCB Design
+
+* Open KiCad project files.
+* Review or modify the layout.
+* Send **Gerber files** to a PCB manufacturer.
+
+#### 2. Firmware Development
+
+* Open the **PSoC project** in PSoC Creator.
+* Compile and program the PSoC 5LP microcontroller.
+
+#### 3. Signal Processing
+
+* Use MATLAB scripts to process captured radar data.
+* Perform **DFT analysis** for precise motion detection.
+
+---
+
+## 🧪 Testing & Validation
+
+* Hardware validated through PCB prototypes.
+* Firmware tested with real-time motion detection scenarios.
+* MATLAB used to visualize motion profiles and confirm radar accuracy.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! To propose improvements:
+
+1. Fork this repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Submit a pull request with details.
+
+---
+
+## 📜 License
+
+MIT License – see [LICENSE](LICENSE) for details.
+
+**Author:** Sunil Dabbiru
