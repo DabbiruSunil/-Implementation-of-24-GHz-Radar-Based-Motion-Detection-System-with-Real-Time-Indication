@@ -58,6 +58,9 @@ The objective of this project is to build a **precise motion detection system** 
 * Review or modify the layout.
 * Send **Gerber files** to a PCB manufacturer.
 
+  ![Handheld PCB](Handheld_PCB.jpg)
+
+
 #### 2. Firmware Development
 
 * Open the **PSoC project** in PSoC Creator.
